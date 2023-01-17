@@ -16,5 +16,7 @@ Once you click on the Visual Studio Code file in your files you should reach a h
 
 Open the terminal in VS code.(Ctrl or Command + `, or use the Terminal → New Terminal menu option), and type in ssh followed by your account name.
 
+![Image](ssh.png)
+
 
 
