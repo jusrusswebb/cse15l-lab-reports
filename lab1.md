@@ -8,7 +8,11 @@ After VS code is downloaded, open your files and look for VS code Zip file. Afte
 
 ![Image](vscodefile.png)
 
-Once you click on the Visual Studio Code file in your files you should reach a home page that looks similar to the one below. 
+Once you click on the Visual Studio Code file in your files you should reach a home page that looks similar to the one below. To get started, you can either open an existing file or create a new one by clicking New File. 
 
 ![Image](vscodeapp.png)
+
+# Remotely Connecting
+
+
 
