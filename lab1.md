@@ -20,4 +20,6 @@ Open the terminal in VS code.(Ctrl or Command + `, or use the Terminal → New T
 
 Past this point, I was unable to remotely connect as it was not accepting my password. I continued to change and input different password across multiple methods, but nothing has seemed to work thus far. I emailed Proffesor Politz and when the issue is fixed I will update this tutorial. 
 
+![Image](passwordfail.png)
+
 
