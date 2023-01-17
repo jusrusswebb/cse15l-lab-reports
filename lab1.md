@@ -7,3 +7,4 @@ First, head to [Visual Studio Code](https://code.visualstudio.com/) and follow t
 After VS code is downloaded, open the file and you should find a page similar to the one below. Note that the VS code app can be found in your files titled Visual Studio Code if you ever remove the application from your dock. 
 
 ![Image](vscodeapp.png)
+![Image](vscodefile.png)
