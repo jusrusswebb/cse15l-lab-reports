@@ -4,7 +4,11 @@ First, head to [Visual Studio Code](https://code.visualstudio.com/) and follow t
 
 ![Image](vscodehome.png)
 
-After VS code is downloaded, open the file and you should find a page similar to the one below. Note that the VS code app can be found in your files titled Visual Studio Code if you ever remove the application from your dock. 
+After VS code is downloaded, open your files and look for VS code Zip file. After you click on the zip file, a file named Visual Studio Code should be downloaded into your files. 
+
+![Image](vscodefile.png)
+
+Once you click on the Visual Studio Code file in your files you should reach a home page that looks similar to the one below. 
 
 ![Image](vscodeapp.png)
-![Image](vscodefile.png)
+
