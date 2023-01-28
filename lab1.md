@@ -18,7 +18,11 @@ Open the terminal in VS code.(Ctrl or Command + `, or use the Terminal → New T
 
 ![Image](ssh1.png)
 
-If this is your first time logging in to the server, you should be met with a repsponse saying "Are you sure you want to continue connecting (yes/no/[fingerprint])?". Type yes, press enter, and then input your password. When you have completed these steps you should receive a message as below. 
+If this is your first time logging in to the server, you should be met with a repsponse saying "Are you sure you want to continue connecting (yes/no/[fingerprint])?". Type yes, press enter, and then you should be met with a request to input your password as below. 
+
+![Image](password_req.png)
+
+Once you have input your password, you should see a message similar to the one below. Notice how the server displays information like the different hosts and how many users are using those hosts. This can give you an idea of how fast or slow the server will be running.  
 
 ![Image](login_success.png)
 
