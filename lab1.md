@@ -20,6 +20,9 @@ Open the terminal in VS code.(Ctrl or Command + `, or use the Terminal → New T
 
 If this is your first time logging in to the server, you should be met with a repsponse saying "Are you sure you want to continue connecting (yes/no/[fingerprint])?". Type yes, press enter, and then input your password. When you have completed these steps you should receive a message as below. 
 
+![Image](login_success.png)
+
+
 
 
 
