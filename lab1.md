@@ -18,8 +18,8 @@ Open the terminal in VS code.(Ctrl or Command + `, or use the Terminal → New T
 
 ![Image](ssh1.png)
 
-Past this point, I was unable to remotely connect as it was not accepting my password. I continued to change and input different password across multiple methods, but nothing has seemed to work thus far. I emailed Proffesor Politz and when the issue is fixed I will update this tutorial. 
+If this is your first time logging in to the server, you should be met with a repsponse saying "Are you sure you want to continue connecting (yes/no/[fingerprint])?". Type yes, press enter, and then input your password. When you have completed these steps you should receive a message as below. 
 
-![Image](passwordfail.png)
+
 
 
