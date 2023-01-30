@@ -26,6 +26,9 @@ Once you have input your password, you should see a message similar to the one b
 
 ![Image](login_success.png)
 
+# Trying Some Commands
+
+
 
 
 
