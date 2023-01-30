@@ -30,4 +30,5 @@ Once you have input your password, you should see a message similar to the one b
 
 There are many commands you can make to access and manipulate files in your directory. To check where you currently are in the directory, use command pwd as shown below. The pwd command outputs the entire path to the current directory. 
 
+![Image](pwd_pic.png)
 
