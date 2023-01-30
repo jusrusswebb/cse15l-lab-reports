@@ -32,3 +32,5 @@ There are many commands you can make to access and manipulate files in your dire
 
 ![Image](pwd_pic.png)
 
+Other useful commands involve changing the current directory. To see which files your current working directory has access to, input ls. To update the directory further down the path, input cd <filename>. To return to your previous working directory, simply input cd -. Examples of all of these commands in action are shown below.   
+
