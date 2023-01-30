@@ -36,5 +36,7 @@ Other useful commands involve changing the current directory. To see which files
 
 ![Image](commands.png)
 
-You are also able to read input and write output to files and directories. Two commands that can do this are cp and cat. While cp makes a copy of the file just like the original, cat creates a new file with the same content. As shown below, cat also outputs the contents of a file out to the console. 
+You are also able to read input and write output to files and directories. Two commands that can do this are cp and cat. While cp makes a copy of the file just like the original, cat creates a new file with the same content. As shown below, cat also outputs the contents of a file out to the console.
+
+![Image](cp_cat.png)
 
