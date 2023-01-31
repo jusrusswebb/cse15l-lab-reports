@@ -1,8 +1,6 @@
 # averageWithoutLowest() Bug From Lab 3
 
-One of the bugged programs that we fixed was the averageWithoutLowest() method. The original code is shown below. 
-
-![Image](avg_original.png)
+One of the bugged programs that we fixed was the averageWithoutLowest() method.
 
 Failure inducing input: 
 
@@ -16,6 +14,21 @@ Success inducing input:
     public void averageWithoutLowest(){
         double[] input1 = {7,3,4,5,6}; 
         assertEquals(5.5, ArrayExamples.averageWithoutLowest(input1),0); 
+    }
+
+The original bugged code: 
+
+    static double averageWithoutLowest(double[] arr) {
+        if(arr.length < 2) { return 0.0; }
+        double lowest = arr[0];
+        for(double num: arr) {
+            if(num < lowest) { lowest = num; }
+        }
+        double sum = 0;
+        for(double num: arr) {
+            if(num != lowest) { sum += num; }
+        }
+        return sum / (arr.length - 1);
     }
 
 
