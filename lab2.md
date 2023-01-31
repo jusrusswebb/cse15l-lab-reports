@@ -4,6 +4,14 @@ One of the bugged programs that we fixed was the averageWithoutLowest() method. 
 
 ![Image](avg_original.png)
 
+Failure inducing input: 
+
+    public void averageWithoutLowest(){
+      double[] input1 = {3,3,4,5,6}; 
+      assertEquals(4.5, ArrayExamples.averageWithoutLowest(input1),0); 
+    }
+
+
 
 # Week 2-3 Learning Reflection 
 
