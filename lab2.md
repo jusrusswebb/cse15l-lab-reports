@@ -1,6 +1,8 @@
 # Bug in reversed() from lab 3
 
-One of the bugged programs that we fixed was the averageWithoutLowest() method.
+One of the bugged programs that we fixed was the averageWithoutLowest() method. The original code is shown below. 
+
+![Image](avg_original.png)
 
 
 # Week 2-3 Learning Reflection 
