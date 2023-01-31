@@ -11,6 +11,12 @@ Failure inducing input:
       assertEquals(4.5, ArrayExamples.averageWithoutLowest(input1),0); 
     }
 
+Success inducing input: 
+
+    public void averageWithoutLowest(){
+        double[] input1 = {7,3,4,5,6}; 
+        assertEquals(5.5, ArrayExamples.averageWithoutLowest(input1),0); 
+    }
 
 
 # Week 2-3 Learning Reflection 
