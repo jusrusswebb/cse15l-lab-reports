@@ -31,6 +31,25 @@ The original bugged code:
         return sum / (arr.length - 1);
     }
 
+Fixed code: 
+
+    static double averageWithoutLowest(double[] arr) {
+        if(arr.length < 2) { return 0.0; }
+        double lowest = arr[0];
+        for(double num: arr) {
+            if(num < lowest) { lowest = num; }
+        }
+        double sum = 0;
+        boolean removedLowest = false;
+        for(double num: arr) {
+            if(num == lowest && removedLowest == false){
+                removedLowest = true; 
+                continue; 
+            }
+        sum += num; 
+        }
+        return sum / (arr.length - 1);
+    }
 
 # Week 2-3 Learning Reflection 
 
