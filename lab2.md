@@ -1,4 +1,4 @@
-# Bug in reversed() from lab 3
+# averageWithoutLowest() Bug From Lab 3
 
 One of the bugged programs that we fixed was the averageWithoutLowest() method. The original code is shown below. 
 
