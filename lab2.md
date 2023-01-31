@@ -31,6 +31,10 @@ The original bugged code:
         return sum / (arr.length - 1);
     }
 
+The symptom: 
+
+![Image](symptoms.png)
+
 Fixed code: 
 
     static double averageWithoutLowest(double[] arr) {
