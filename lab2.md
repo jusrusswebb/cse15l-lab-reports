@@ -1,5 +1,8 @@
 # Creating a Web Server
 
+The code I used to created my StringServer is below. 
+
+![Image](server_code.png)
 
 # averageWithoutLowest() Bug From Lab 3
 
