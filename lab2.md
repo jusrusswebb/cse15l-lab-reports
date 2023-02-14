@@ -8,7 +8,7 @@ The code I used to created my StringServer is below.
 
 ![Image](superbowl.png)
 
-The method handleRequest is when I run the add-message request through the web server. The argument that the method uses is the url from my input into the web server. The value of the String result is relevant to the output of the method because it is updated with each method call that contains the correct add-message command. The String array is also completely changed with each method call.
+The StringServer class is responsible for starting up the server and listening for incoming connections. The method handleRequest is called when I input the add-message request into the url of my web server. The argument that the method uses is the url from my input into the web server. The value of the String result is relevant to the output of the method because it is updated with each method call that contains the correct add-message command. The String array is also completely changed with each method call.
 
 
 ![Image](theRefs.png)
