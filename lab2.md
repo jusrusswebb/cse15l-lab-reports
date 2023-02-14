@@ -8,11 +8,12 @@ The code I used to created my StringServer is below.
 
 ![Image](superbowl.png)
 
-The method handleRequest is when I run the add-message command through the web server. The argument that the method uses is the url from my input into the web server. The value of the String result is relevant to the output of the method because it is updated with each method call that contains the correct add-message command.The String array is also completely changed with each method call.
+The method handleRequest is when I run the add-message request through the web server. The argument that the method uses is the url from my input into the web server. The value of the String result is relevant to the output of the method because it is updated with each method call that contains the correct add-message command. The String array is also completely changed with each method call.
+
 
 ![Image](theRefs.png)
 
-
+The method handleRequest is called once again when the add-message request is input into the web server url. The relevant argument to the method is the url. The value of String result is updated to contain both the current requested string and the string from the previous request. A new String array replaced the String array from the previous method call.   
 
 # averageWithoutLowest() Bug From Lab 3
 
