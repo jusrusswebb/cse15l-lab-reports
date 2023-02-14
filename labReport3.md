@@ -56,5 +56,23 @@ The command above searches through the berlitz2 subdirectory for any file that m
     
 The command above searches through the Berk subdirectory for any file that mentions the specified phrase. This could be helpful if you wanted to see in which chapter that "the dilemmas that today's parents face" is mentioned. In this case we learned that it is the topic of chapter 7.
 
+This command was found on the site [swcarpentry](https://swcarpentry.github.io/shell-novice/07-find/index.html#:~:text=The%20grep%20command%20searches%20through).
+
+## grep -o
+
+grep -o returns only the matched parts of a matchine line, with each match on a separate line
+
+    grep -o Polynesian HistoryHawaii.txt 
+    
+    Polynesian
+    Polynesian
+    Polynesian
+    Polynesian
+    
+The above command searches through HistoryHawaii.txt to find the matching lines of the specified word. This can be useful to check if you were searching through your own file and wanted to check if you capitlized the word Polynesian appropriately each time. 
+
+
+
+
     
     
