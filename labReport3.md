@@ -16,7 +16,7 @@ The command above is searching through the Costa-WhatToDo.txt file for text that
     
 The command above is searching through chM.txt for text that appears near the word "habitually". This could be useful if you remember that word "habitually" being related to a section of the text that talks about something specific you are looking for. 
     
-This command was found on a GitHub site called [swcarpentry](https://swcarpentry.github.io/shell-novice/07-find/index.html#:~:text=The%20grep%20command%20searches%20through).
+This command was found on the site [swcarpentry](https://swcarpentry.github.io/shell-novice/07-find/index.html#:~:text=The%20grep%20command%20searches%20through).
 
 ## grep -n 
 
@@ -30,6 +30,8 @@ The command above searches through IntroIbiza.txt for the line at which the spec
     
     13:        religious conflicts between Christianity and Islam. Although they now
     
-The command above searches through IntroGreek.txt for the line at which the specified string occurs. This could be help if you wanted to know where in the text it mentions religious conflicts, or how many times the phrase religious conflicts is mentioned throuhgout the article. 
+The command above searches through IntroGreek.txt for the line at which the specified string occurs. This could be help if you wanted to know where in the text it mentions religious conflicts, or how many times the phrase religious conflicts is mentioned throuhgout the article.
+
+This command was found on the site [swcarpentry](https://swcarpentry.github.io/shell-novice/07-find/index.html#:~:text=The%20grep%20command%20searches%20through).
     
     
