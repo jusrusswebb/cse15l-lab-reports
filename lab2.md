@@ -10,6 +10,10 @@ The code I used to created my StringServer is below.
 
 The method handleRequest is when I run the add-message command through the web server. The argument that the method uses is the url from my input into the web server. The value of the String result is relevant to the output of the method because it is updated with each method call that contains the correct add-message command.The String array is also completely changed with each method call.
 
+![Image](theRefs.png)
+
+
+
 # averageWithoutLowest() Bug From Lab 3
 
 One of the bugged programs that we fixed was the averageWithoutLowest() method.
