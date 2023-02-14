@@ -48,7 +48,7 @@ grep -r searches for a pattern recursively through a set of files or subdirector
     berlitz2/Berlin-History.txt:With the Soviet army already in place, American troops entered Berlin in 1945 on their national Independence Day, 4 July, followed by the British and French contingents. Four-power control of Berlin was agreed at Potsdam by Winston Churchill (replaced in mid-conference by Clement Attlee, his successor as Prime Minister), Harry Truman, and Joseph Stalin. The Soviet eastern sector covered just under half the city’s area.
     berlitz2/Bahamas-WhereToGo.txt:The oldest wooden house on the island — it was built by shipwrights around 1790 of American soft cedar — it has been restored and is now a museum that offers a delightful view of life in well-to-do Nassau in the 18th century. Once a private home visited by the likes of the Duke of Windsor and Winston Churchill, Graycliff Mansion on West Hill Street is now a fine hotel with a well regarded menu and wine list. 
 
-
+The command above searches through the berlitz2 subdirectory for any file that mentions the specified string. This could be helpful if you wanted to search broadly for files that mention Winston Churchill. 
 
     
     
