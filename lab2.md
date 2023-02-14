@@ -2,7 +2,9 @@
 
 The code I used to created my StringServer is below. 
 
-![Image](server_code.png)
+![Image](stringServer.png)
+
+
 
 I have not gotten my server to work as designed. However, when the code functions, my handleRequest method and my main method will be called, where the relevant arguments are always the URL since this program reads a URL input and outputs a message of text on the webpage. From each specific request, the String array which contains the message will be changed as well as the port number with each update of the host. 
 
