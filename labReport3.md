@@ -50,5 +50,11 @@ grep -r searches for a pattern recursively through a set of files or subdirector
 
 The command above searches through the berlitz2 subdirectory for any file that mentions the specified string. This could be helpful if you wanted to search broadly for files that mention Winston Churchill. 
 
+    grep -r "dilemmas that today’s parents face" Berk
+    
+    Berk/ch7.txt:In this chapter, I take up dilemmas that today’s parents face in rearing young children. Throughout this book, we have touched on myriad forces that make contemporary parenting highly challenging. These include one-sided, contradictory messages in the parenting-advice literature; career pressures that impinge on parent involvement in children’s lives; abysmally weak American child-care services to assist employed parents in their child-rearing roles; cultural violence and excessive materialism permeating children’s worlds; schools with less than optimal conditions for children’s learning; and impediments to granting children with deﬁcits and disabilities social experiences that maximize their development.
+    
+The command above searches through the Berk subdirectory for any file that mentions the specified phrase. This could be helpful if you wanted to see in which chapter that "the dilemmas that today's parents face" is mentioned. In this case we learned that it is the topic of chapter 7.
+
     
     
