@@ -71,7 +71,17 @@ grep -o returns only the matched parts of a matchine line, with each match on a 
     
 The above command searches through HistoryHawaii.txt to find the matching lines of the specified word. This can be useful to check if you were searching through your own file and wanted to check if you capitlized the word Polynesian appropriately each time. 
 
-
+    grep -r -o sunlight Kauffman
+    
+    Kauffman/ch3.txt:sunlight
+    Kauffman/ch3.txt:sunlight
+    Kauffman/ch3.txt:sunlight
+    Kauffman/ch3.txt:sunlight
+    Kauffman/ch3.txt:sunlight
+    Kauffman/ch4.txt:sunlight
+    Kauffman/ch9.txt:sunlight
+    
+The above command searches recursively through the Kauffman subdirectory for files that match the specified word. This could be useful if you wanted to know which files mention the word sunlight in addition to the frequeny at which they do so. 
 
 This command was found on the site [GeeksforGeeks](https://www.geeksforgeeks.org/grep-command-in-unixlinux/).
     
