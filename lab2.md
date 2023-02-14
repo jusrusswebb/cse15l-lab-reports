@@ -8,7 +8,7 @@ The code I used to created my StringServer is below.
 
 ![Image](superbowl.png)
 
-I have not gotten my server to work as designed. However, when the code functions, my handleRequest method and my main method will be called, where the relevant arguments are always the URL since this program reads a URL input and outputs a message of text on the webpage. From each specific request, the String array which contains the message will be changed as well as the port number with each update of the host. 
+The method handleRequest is when I run the add-message command through the web server. The argument that the method uses is the url from my input into the web server. The value of the String result is relevant to the output of the method because it is updated with each method call that contains the correct add-message command.The String array is also completely changed with each method call.
 
 # averageWithoutLowest() Bug From Lab 3
 
