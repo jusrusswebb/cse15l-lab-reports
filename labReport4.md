@@ -37,6 +37,8 @@ Use nano to open the ListExamples.java file
 
         nano L<tab>.java
 
+![Image](nanoFile.png)
+
 
         
 
