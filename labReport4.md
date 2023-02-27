@@ -31,3 +31,13 @@ First, change into the lab7 directory using the command cd lab7. Then use the <C
 
 ![Image](testFail.png)
 
+## Step 7: Edit the code file to fix the failing test
+
+Use nano to open the ListExamples.java file
+
+        nano L<tab>.java
+
+
+        
+
+
