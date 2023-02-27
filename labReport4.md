@@ -1,4 +1,4 @@
-## "Done Quick" Challenge Task
+# "Done Quick" Challenge Task
 
-# Step 4: Logging into ieng6
+## Step 4: Logging into ieng6
 
