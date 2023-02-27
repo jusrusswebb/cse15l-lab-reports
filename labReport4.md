@@ -6,4 +6,4 @@ Log into your ieng6 account using the ssh command. If you have not generated an 
 
     ssh cs15lwi23asu@ieng6.ucsd.edu <enter>
 
-![Image](loggingIn.png)
+![Image](loggedIn.png)
