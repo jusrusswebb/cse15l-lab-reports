@@ -7,3 +7,7 @@ Log into your ieng6 account using the ssh command. If you have not generated an 
     ssh cs15lwi23asu@ieng6.ucsd.edu <enter>
 
 ![Image](loggedIn.png)
+
+
+## Step 5: Clone your fork of the repository from your Github account
+
