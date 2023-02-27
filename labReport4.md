@@ -23,10 +23,11 @@ Then enter the command as shown below.
 
 ## Step 6: Run the tests, demonstrating that they fail
 
-First, change into the lab7 directory using the command cd lab7. Then use the <Ctrl+R> command to search for previously entered commands and type javac to automatically input the compiler input for JUnit tests. Do the same for running the commands. 
+First, change into the lab7 directory using the command cd lab7. Then use the <Ctrl+R> command to search for previously entered commands and type javac to automatically input the compiler input for JUnit tests. The java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore command was 4 up in the command history, so I pressed the up key 4 times and then enter to run it as shown below. 
 
         cd lab7
         <Ctrl+R> javac <enter>
+        <up><up><up><up><enter>
 
 ![Image](testFail.png)
 
