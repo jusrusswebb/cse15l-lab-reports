@@ -13,8 +13,8 @@ Log into your ieng6 account using the ssh command. If you have not generated an 
 
 In your github account, go to the lab7 file and find copy the SSH clone key as shown below.
 
-![Image](cloneURl.png)
+![Image](cloneURL.png)
 
-        git clone <Ctrl + V>
+        git clone <Ctrl+V>
         
 ![Image](cloned.png)
