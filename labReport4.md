@@ -17,7 +17,7 @@ In your github account, go to the lab7 file and find copy the SSH clone key as s
 
 Then enter the command as shown below. 
 
-        git clone <Ctrl+V><enter>
+        git clone <Command-V><enter>
         
 ![Image](cloned.png)
 
