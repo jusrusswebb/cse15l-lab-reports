@@ -20,3 +20,6 @@ Then enter the command as shown below.
         git clone <Ctrl+V><enter>
         
 ![Image](cloned.png)
+
+## Step 6: Run the tests, demonstrating that they fail
+
