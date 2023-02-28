@@ -2,7 +2,7 @@
 
 ## grep -w 
 
-grep -w returns matches to word boundaries
+grep -w returns the surrounding text of matching words.
 
     grep -w "fun" Costa-WhatToDo.txt
     
