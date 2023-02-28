@@ -20,7 +20,7 @@ This command was found on the site [swcarpentry](https://swcarpentry.github.io/s
 
 ## grep -n 
 
-grep -n returns lines to matching strings
+grep -n returns the lines that contain a matching string along with the text in that line. 
 
     grep -n "If you head inland" IntroIbiza.txt
     
