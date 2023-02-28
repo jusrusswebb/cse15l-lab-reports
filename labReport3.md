@@ -38,7 +38,7 @@ This command was found on the site [swcarpentry](https://swcarpentry.github.io/s
 
 ## grep -r 
 
-grep -r searches for a pattern recursively through a set of files or subdirectory
+grep -r searches for a pattern recursively through a set of files or subdirectory. This means that you search the current directory and all of its subdirectories, and all the subdirectories of those subdirectories, etc.. 
 
     grep -r "Winston Churchill" berlitz2
     
