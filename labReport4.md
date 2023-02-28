@@ -56,6 +56,18 @@ To demonstrate that the tests now succeed, we need to compile and run the JUnit 
 
 <img width="804" alt="image" src="https://user-images.githubusercontent.com/122849382/221726477-5ea96e96-c4b4-4c70-a91d-0d9ca038e0c1.png">
 
+## Step 9: Commit and push the resulting change to your Github account
+
+I used the git add, commmit and push commands in order to update the correct verision of ListExamples.java to my Github account. 
+
+        git add ListExmaples.java
+        git commit -m "Updated"
+        git push
+
+<img width="524" alt="image" src="https://user-images.githubusercontent.com/122849382/221728135-d0c8077e-3521-4998-a41b-6ba15feb00db.png">
+
+<img width="604" alt="image" src="https://user-images.githubusercontent.com/122849382/221728253-8d36f493-a38f-4fe7-a33f-e7c46e19c994.png">
+
 
 
         
