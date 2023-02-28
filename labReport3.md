@@ -69,19 +69,21 @@ grep -o returns only the matched parts of a matchine line, with each match on a 
     Polynesian
     Polynesian
     
-The above command searches through HistoryHawaii.txt to find the matching lines of the specified word. This can be useful to check if you were searching through your own file and wanted to check if you capitlized the word Polynesian appropriately each time. 
+The above command searches through HistoryHawaii.txt to find the matching lines of the specified word. This command is case sensitive, which reveals that this command can be useful to check if you capitlized the word Polynesian appropriately each time. see below where a polynesian is searched for instead. 
 
-    grep -r -o sunlight Kauffman
+    grep -o polynesian HistoryHawaii.txt
     
-    Kauffman/ch3.txt:sunlight
-    Kauffman/ch3.txt:sunlight
-    Kauffman/ch3.txt:sunlight
-    Kauffman/ch3.txt:sunlight
-    Kauffman/ch3.txt:sunlight
-    Kauffman/ch4.txt:sunlight
-    Kauffman/ch9.txt:sunlight
+Looks like Polynesian was capitalized each time in the file HistoryHawaii.txt. 
+
+    grep -o sunlight ch3.txt
     
-The above command searches recursively through the Kauffman subdirectory for files that match the specified word. This could be useful if you wanted to know which files mention the word sunlight in addition to the frequeny at which they do so. 
+    sunlight
+    sunlight
+    sunlight
+    sunlight
+    sunlight
+    
+The above command searches for the words sunlight in ch3.txt in the Kaffman directory. This could be useful if you wanted to know the frequency at which chapter three mentions sunlight. 
 
 This command was found on the site [GeeksforGeeks](https://www.geeksforgeeks.org/grep-command-in-unixlinux/).
     
