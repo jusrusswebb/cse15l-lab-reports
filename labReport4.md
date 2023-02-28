@@ -46,6 +46,16 @@ We want to fix the error located at line 43, so I used a shortcut outline below 
         <Ctrl+O><enter><Ctrl+X> 
         
  <img width="759" alt="image" src="https://user-images.githubusercontent.com/122849382/221726141-c3626cb8-cb8a-4d62-bfd3-f2fa6fba4e9e.png">
+ 
+## Step 8: Run the tests, demonstrating that they now succeed
+
+To demonstrate that the tests now succeed, we need to compile and run the JUnit tests just like in step 6. Now that these commands are more recent in our history, they are both reachable with 3 up arrows as shown below. 
+    
+        <up><up><up><enter> 
+        <up><up><up><enter> 
+
+<img width="804" alt="image" src="https://user-images.githubusercontent.com/122849382/221726477-5ea96e96-c4b4-4c70-a91d-0d9ca038e0c1.png">
+
 
 
         
