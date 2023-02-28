@@ -39,6 +39,14 @@ Use nano to open the ListExamples.java file
 
 ![Image](nanoFile.png)
 
+We want to fix the error located at line 43, so I used a shortcut outline below to find the correct line number and replace the 1 in index1 with a 2 to make it index2. I then used various nano commands to write out the edit and exit the file.
+
+        <Ctrl + Shift + -> <42><enter> 
+        <right> 12 times then <delete> and <2> 
+        <Ctrl+O><enter><Ctrl+X> 
+        
+ <img width="759" alt="image" src="https://user-images.githubusercontent.com/122849382/221726141-c3626cb8-cb8a-4d62-bfd3-f2fa6fba4e9e.png">
+
 
         
 
