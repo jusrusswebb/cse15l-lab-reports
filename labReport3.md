@@ -14,7 +14,7 @@ The command above is searching through the Costa-WhatToDo.txt file for matches t
     
     Death, personified as a woman and dressed in white clothing, is a well-known character in Chicano and Mexicano folklore. Commonly accepted as just La Muerte, she is a frequent personality in legends, urban belief tales, and is integrated into many family folk belief systems.
     
-The command above is searching through chM.txt for matches to the whole word "Death". This could be useful if you wanted to know whether the author talks about the personification or symbolism of death in Mexican folklore. 
+The command above is searching through chM.txt for matches to the whole word "Death". This could be useful if you wanted to know whether the author talks about the personification or symbolism of death in Mexican folklore.  
     
 This command was found on the site [swcarpentry](https://swcarpentry.github.io/shell-novice/07-find/index.html#:~:text=The%20grep%20command%20searches%20through).
 
